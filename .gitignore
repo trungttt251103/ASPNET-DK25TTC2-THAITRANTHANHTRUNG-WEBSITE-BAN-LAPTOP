@@ -1,0 +1,13 @@
+# Exclude .vs (Visual Studio settings)
+src/.vs
+
+# Exclude packages folder (NuGet packages)
+src/packages
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files (locked by SQL Server when running)
+# QuanLyBanHang.mdf
+# QuanLyBanHang_log.ldf
