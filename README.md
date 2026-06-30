@@ -333,3 +333,8 @@ MaLoaiTV = 3: KhachHang (thanh vien binh thuong)
 - Session timeout 1 phut (mac dinh), co the thay doi trong `Web.config`
 - San pham bi danh dau `DaXoa = true` se khong hien thi ngoai trang nguoi dung
 - Don dat hang can duyet trang thai `DaThanhToan` va `TinhTrangGiaoHang` trong trang Admin
+
+## Liên hệ
+-**Email:** trungttt251103@tvu-onschool.edu.vn
+-**SDT:** 098.1268.098
+-**Địa chỉ:** TPHCM
