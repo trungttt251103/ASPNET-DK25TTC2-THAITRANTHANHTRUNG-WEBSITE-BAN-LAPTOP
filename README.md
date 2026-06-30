@@ -1,4 +1,4 @@
-# WebsiteBanHang - He Thong Quan Ly Ban Hang Dien Tu
+# WebsiteBanHang - He Thong Quan Ly Ban LAPTOP
 
 ## Moi truong
 - **Framework:** ASP.NET MVC 5 (.NET Framework 4.7.2)
