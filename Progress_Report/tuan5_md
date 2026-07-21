@@ -1,0 +1,21 @@
+# BÁO CÁO TIẾN ĐỘ ĐỒ ÁN - TUẦN 5
+
+- **Thời gian thực hiện:** 20/07/2026 - 01/08/2026
+- **Trọng tâm công việc:** Kiểm thử, Đánh giá ưu nhược điểm và Hoàn thiện báo cáo
+- **Đề tài:** Xây dựng website bán laptop sử dụng ASP.NET MVC 5 và SQL Server
+
+## 1. Nội dung công việc
+- Triển khai thử nghiệm toàn bộ hệ thống website trên môi trường máy chủ cục bộ (Localhost).
+- Áp dụng phương pháp kiểm thử hộp đen (Black-box testing) để rà soát toàn bộ các kịch bản chức năng của người dùng và admin.
+- Thực hiện tổng kết, đánh giá ưu điểm (kiến trúc logic, giao diện tối ưu, vận hành ổn định) và nhìn nhận các nhược điểm (mức độ cọ xát thực tế chưa sâu, bảo mật ở mức cơ bản, thiếu cơ chế cảnh báo thời gian thực).
+- Viết chương Kết luận, đề xuất hướng cải tiến (Realtime, Chatbot, Chat trực tuyến) và xây dựng slide báo cáo đồ án.
+
+## 2. Tài liệu liên quan
+- Tài liệu hướng dẫn định dạng văn bản hành chính quy chuẩn (Nghị định 30/2020/NĐ-CP) áp dụng vào việc canh lề, trình bày quyển báo cáo tốt nghiệp.
+
+## 3. Khó khăn gặp phải
+- Phát sinh một số bug nhỏ trong quá trình chạy thử nghiệm liên quan đến đường dẫn slug URL hiển thị hình ảnh sản phẩm bị lỗi cục bộ và việc định dạng hiển thị kiểu dữ liệu tiền tệ (decimal) trên giao diện.
+
+## 4. Kết quả đạt được
+- Website vận hành mượt mà, hỗ trợ giao diện đáp ứng tốt trên đa thiết bị (Desktop, Laptop, Mobile).
+- Hoàn thành quyển báo cáo tổng hợp đúng quy chuẩn định dạng để gửi Giảng viên hướng dẫn chấm điểm và đủ điều kiện ra Hội đồng bảo vệ đồ án.
